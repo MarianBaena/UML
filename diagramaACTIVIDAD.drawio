@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T19:58:18.041Z" agent="5.0 (Windows)" etag="pjWFnVyFsVVs0Xy3TsaI" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T19:59:45.157Z" agent="5.0 (Windows)" etag="ptC5Gb7qkzntoIaGtfCp" version="14.5.7" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="2" vertex="1">
+        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;" parent="2" vertex="1">
           <mxGeometry x="88.5" y="694.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZA-KN9Rf8BJQ1v--GHor-61" value="Envío mensaje &quot;Equipo Denegado&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="2">
@@ -66,9 +66,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZA-KN9Rf8BJQ1v--GHor-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;endFill=1;rounded=0;" edge="1" parent="3">
-          <mxGeometry x="-1342.5" y="173" as="geometry">
-            <mxPoint x="155.5" y="627" as="targetPoint" />
-            <mxPoint x="155.5" y="584.5" as="sourcePoint" />
+          <mxGeometry x="-1342.5" y="176" as="geometry">
+            <mxPoint x="155.5" y="630" as="targetPoint" />
+            <mxPoint x="155.5" y="587.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZA-KN9Rf8BJQ1v--GHor-82" value="&lt;div&gt;Montaje&lt;/div&gt;&lt;div&gt;equipo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="3">
@@ -77,19 +77,19 @@
         <mxCell id="ZA-KN9Rf8BJQ1v--GHor-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;endFill=1;rounded=0;" edge="1" parent="3">
           <mxGeometry x="-1419.5" y="225.75" as="geometry">
             <mxPoint x="-111.5" y="644.5" as="targetPoint" />
-            <mxPoint x="88.5" y="644.5" as="sourcePoint" />
+            <mxPoint x="98.5" y="644.5" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="39" y="655" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZA-KN9Rf8BJQ1v--GHor-89" value="Si disponible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
-          <mxGeometry x="154.5" y="594.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="156.5" y="594.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZA-KN9Rf8BJQ1v--GHor-90" value="No disponible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
           <mxGeometry x="38.5" y="544.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZA-KN9Rf8BJQ1v--GHor-94" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;endFill=1;rounded=0;" edge="1" parent="3">
+        <mxCell id="ZA-KN9Rf8BJQ1v--GHor-94" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="ZA-KN9Rf8BJQ1v--GHor-50">
           <mxGeometry x="-918" y="-201.5" as="geometry">
             <mxPoint x="98.5" y="404.5" as="targetPoint" />
             <mxPoint x="98.5" y="174.5" as="sourcePoint" />
