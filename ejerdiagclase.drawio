@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T15:07:24.734Z" agent="5.0 (Windows)" etag="YA7zhHGfNjOCdwWvb7Lw" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T15:10:08.030Z" agent="5.0 (Windows)" etag="GbAaJ15VCzb2gNfGeRFb" version="14.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -327,6 +327,9 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xge_uJqHZkqQWPB38G0r-102" value="Entiendo que una cuenta puede no tener ningun movimiento" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="300" width="190" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
